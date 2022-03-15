@@ -86,7 +86,7 @@ Authorization: string
 
 ### Request
 
-`POST /api/surveys
+`POST /api/surveys`
 
    
     {
