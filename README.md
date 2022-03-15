@@ -17,7 +17,7 @@ The REST API
 
 ### Response
 
-    ```json
+    '''json
     {
       "id": string,
       "name": string,
@@ -38,7 +38,7 @@ The REST API
         }
       ]
     }
-    ```json
+    ```
 
 ## Get list of all surveys for this user
 
