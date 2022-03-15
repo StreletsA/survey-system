@@ -48,7 +48,8 @@ The REST API
 
 ### Response
 
-   ```json
+
+    ```json
     {
       "id": string,
       "name": string,
@@ -65,10 +66,8 @@ The REST API
                 "id": string,
                 "text": string,
                 "userIds": [string]
-              },
-              ...
-        },
-        ...
+              }
+        }
       ]
     }
     ```json
