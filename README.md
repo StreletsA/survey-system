@@ -34,10 +34,8 @@ The REST API
                 "id": string,
                 "text": string,
                 "userIds": [string]
-              },
-              ...
-        },
-        ...
+              }
+        }
       ]
     }
     ```json
