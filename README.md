@@ -38,7 +38,7 @@ The REST API
         }
       ]
     }
-    ```
+    '''
 
 ## Get list of all surveys for this user
 
