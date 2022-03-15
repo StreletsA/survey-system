@@ -40,7 +40,7 @@ The REST API
         ...
       ]
     }
-    ```
+    ```json
 
 ## Get list of all surveys for this user
 
@@ -73,7 +73,7 @@ The REST API
         ...
       ]
     }
-    ```
+    ```json
     
 ## Create a new Survey
 
@@ -98,5 +98,5 @@ Authorization: string
       "questionId": string,
       "userAnswer": string,
     }
-    ```
+    ```json
 
