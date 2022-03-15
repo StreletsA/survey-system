@@ -49,7 +49,7 @@ The REST API
 ### Response
 
 
-    ```json
+   
     {
       "id": string,
       "name": string,
@@ -70,7 +70,7 @@ The REST API
         }
       ]
     }
-    ```json
+    
     
 ## Create a new Survey
 
@@ -88,12 +88,12 @@ Authorization: string
 
 `POST /api/surveys
 
-    ```json
+   
     {
       "userId": string,
       "surveyId": string,
       "questionId": string,
       "userAnswer": string,
     }
-    ```json
+    
 
